@@ -1,5 +1,6 @@
 # operations-Polynomial-SLinkedList
-Giving two polynomials in form of string, add/sub/mul 2 polynomials using singly linked lists.
+// Giving two polynomials in form of string, add/sub/mul 2 polynomials using singly linked lists."no HashMap"
+
 import java.util.StringTokenizer;
 
 public class Polynomial {
